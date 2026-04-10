@@ -4,7 +4,7 @@
 
 <br>
 
-### ✨ Software Engineer | Creative Technologist 🎨
+### Software Engineer | Creative Technologist
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### 💭 Daily Inspiration
+### Daily Inspiration
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false" />
 
@@ -26,12 +26,14 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=devkeni&color=EC4899&style=for-the-badge&label=👁+Profile+Views" />
+<img width="100%" src="./assets/readme-language-card.svg" alt="Most used languages across repositories contributed to" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=devkeni&color=EC4899&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
-
-</div>

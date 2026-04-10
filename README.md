@@ -18,9 +18,7 @@
 
 <div align="center">
 
-### Daily Inspiration
-
-<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&quoteColor=f1f3f7&authorColor=8d92a2&backgroundColor=12161f&symbolColor=4d7fc2" />
+<img width="100%" src="./assets/readme-daily-inspiration-card.svg" alt="Daily inspiration quote card" />
 
 </div>
 

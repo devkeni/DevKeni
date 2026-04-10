@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=200&section=header&text=DevKeni&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6D5DF6,100:7AA2D1&height=200&section=header&text=DevKeni&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45"/>
 
 <br>
 
-### Software Engineer | Creative Technologist
+<a href="https://devkeni.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=F1F3F7&center=true&vCenter=true&repeat=true&width=360&height=40&lines=https%3A%2F%2Fdevkeni.com" alt="https://devkeni.com" />
+</a>
 
 <br>
 
@@ -18,7 +20,7 @@
 
 ### Daily Inspiration
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false" />
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&quoteColor=f1f3f7&authorColor=8d92a2&backgroundColor=12161f&symbolColor=4d7fc2" />
 
 </div>
 
@@ -28,12 +30,8 @@
 
 <img width="100%" src="./assets/readme-language-card.svg" alt="Most used languages across repositories contributed to" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=devkeni&color=EC4899&style=for-the-badge&label=Profile+Views" />
-
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6D5DF6,100:7AA2D1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70"/>
